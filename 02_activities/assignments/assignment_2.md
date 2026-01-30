@@ -8,27 +8,41 @@
 - To test your evaluation skills, locate two public data visualizations online, one good and one bad  
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
+
+1) Example of a visualization tool that can be BAD is a PIE CHART (https://datavizproject.com/data-type/pie-chart/) especially if the areas are not ecplicitly labbeled. For example https://dribbble.com/shots/395107-Infotools-Radials.
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    a)I classified pie chart a potentially bad visualization tool because it requires that the audience compare angles and slice areas which is not a natural skill that majority have. (Kozak et al., 2015; https://www.researchgate.net/publication/277648324_Multiple_Pie_Charts_Unreadable_Inefficient_and_Over-Used)
+    b) Small changes in the angles may be particularly had to visually detect
+    c) it is not easy to estimate exact values by just looking at it if these values are not clearly stated. eg https://dribbble.com/shots/395107-Infotools-Radials.
+    d) I find that people sometimes use this tool wrongly whereby the total area within the pie may be less than or greater than 100% as seen in the 2012 presidential run example in the class material (01_course intro) a
 
+      ```
+    - How could this data visualization have been improved?  
+    Specifically using this as an example https://dribbble.com/shots/395107-Infotools-Radials. I would consider using a different tool when showing percentages or comparisons between features eg a Bar graph. This is because
 
-
-
-
-
+    a) Bar charts allow easy comparison via aligned lengths and stable axis.
+    b) The differences are immediately visible to an untrained eye.
+    c) Exact values are easier to visually estimate and small changes are also easily detectable.
+    If we decided to stick with the pie chart in the example above, I would suggest that the persentage label of what is been communicated be within the pie. Also they need to label the unit of whatever is being comminicated. for example the pie chart that had 180 but viually is showing approximately 50% of the chart was very confusing.
+      ```
+      
+2) Example of a visualization tool that can be GOOD is a FLOW MAP(https://datavizproject.com/data-type/flow-map/) a practical example is flight paths flow maps https://airportnoise.torontopearson.com/what-flies-over-me-and-why/
+    - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
+      ```
+     I classified flow maps as generally good because 
+     a)They are made to show movement and direction which tends to visually tell a story. They explicitly encode movement, making them especially well suited for transportation, migration, trade, and network-like spatial phenomenAa.
+     b) they can easily integrate geography and quantitative data. for example the origin and destination of a flight, the flight path/direction and the distance travelled.
+     c) we can easily visually identify patterns which is a good way to tell a story. for example how busy an airport hub is and how many flights are going in and out or over a region.
+     d) if properly done, is quite intuisve and easy to percieve what is being communicated. however, It also can lead to clutter if too many information is being communicated at ones.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      a)Some downsides to Flow maps include visual cluter as mentioned above and a way to potentially improve this would be potentially making the tool dynamic (providing filters) so that people can select only the information or region they are interested in viewing.
+      b)Although many of the audience can see relative differences in the flow magnitude, precise comparison of line widths may be difficult without numeric labels. Therefore, it is very important to include accurate labels and potentially provide the direction of flow to help interprete the data.
+      c)The color scheme of the map needs to be considered too for accesibility purposes and to prevent perceptual overload when the colors are hard to percieve. -https://vizalyst.com/wp-content/uploads/2025/03/Cole-Knaflic-Storytelling-with-data-a-data-visualization-guide-for-business-professionals-Knaflic-Cole-Nussbaumer-Storytelling-with-data-a-dat.pdf
 
-
-
-
-
-
-      
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
