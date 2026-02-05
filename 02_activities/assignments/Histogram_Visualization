@@ -1,0 +1,36 @@
+For Histogram visualization, describe and justify: 
+    > What software did you use to create your data visualization? 
+    Microsoft Excel
+
+    > Who is your intended audience? 
+    Government agencies and policymakers interested in funding distribution.
+    
+    > What information or message are you trying to convey with your visualization? 
+    I am trying to show how grant amounts are distributed across different ranges to identify common funding levels and potential gaps. 
+    I am also trying to show where most funding is concentrated (mode), the spread of funding values (range, skewness) and potential outliers (very high or low grants), which can inform funding strategies.
+
+    > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
+    I choose a bin width size of $16,000 to balance detail and readability
+    I used blue green color for the bars on a white background to make the plot visually appealing and easy to read.
+    I used clear labels (Grant Amount on x-axis, Frequency on y-axis) and a descriptive title (Distribution of grant amounts) to ensure the audience understands the plot easily.
+
+
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+   Excel is not inherently reproducible like coding environments (e.g., Python and R) but I documented the steps taken to create the histogram, including bin width selection, design choices and axis labeling.
+
+    > How did you ensure that your data visualization is accessible?  
+     I used a clear and high-contrast colors (dark blue bars on white background)
+     I used readable  and bold font sizes for labels and title
+     I added axis labels and a title to provide context
+     I ensured bins are interpretable for numeric literacy differences
+
+    > Who are the individuals and communities who might be impacted by your visualization?  
+    Government agencies, policymakers, and settlement service organizations in Ontario who allocate and receive funding for newcomer settlement programs.
+
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    I focused on the "Grant Amount" feature as it directly relates to funding distribution, which is the main message I want to convey.
+
+    > What ‘underwater labour’ contributed to your final data visualization product?
+    
+    Data exploration: I analyzed the distribution of grant amounts to determine appropriate bin widths and ranges for the histogram.
+    Design iteration: I experimented with different color schemes, bin sizes, and labeling to enhance clarity and visual appeal.     
